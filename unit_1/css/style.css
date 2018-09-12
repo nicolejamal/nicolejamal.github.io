@@ -1,0 +1,9 @@
+body {
+	background-color: grey;
+}
+
+h1, p {
+	color: white;
+}
+
+<link rel="stylesheet" type="text/css" href="css/style.css">
