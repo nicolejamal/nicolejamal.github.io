@@ -2,7 +2,7 @@ body {
 	background-color: #EBF4EC; 
 }
 
-h1, h4 {
+h1 {
 	font-family: Helvetica, Arial;
 	font-weight: bold;
 	text-transform: lowercase;
@@ -14,12 +14,10 @@ h1 {
 	font-size:43px;
 }
 
-h4 {
-	font-size:14px;
-	color: #000;
 }
 p {
 	font-family: Helvetica, Helvetica;
+	font-size:14px;
 	color: #000;
 }
 
