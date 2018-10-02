@@ -39,6 +39,19 @@ h3 {
 	text-transform: lowercase;
 }
 
+.footer {
+	color: #000;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left; 
+	font-family: Helevetica, Arial;
+	text-transform: lowercase;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top; 20px;
+}
+
 h4 {
 	color: #000;
 	font-size: 21px;
