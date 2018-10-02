@@ -1,0 +1,68 @@
+h1 {
+	color: #000;
+	font-family: Helvetica;
+	font-size:44px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: #000;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: right; 
+	margin: 0
+		margin-top: 0px;
+		margin-right: 0px;
+		margin-bottom: 0px;
+		margin-left: 0px;
+	float: right;
+	padding-top: 87px;
+	font-family: Helevetica, Arial;
+	text-transform: lowercase;
+}
+
+h3 {
+	color: #000;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: left; 
+	margin: 0
+		margin-top: 0px;
+		margin-right: 0px;
+		margin-bottom: 0px;
+		margin-left: 0px;
+	float: left;
+	padding-top: 87px;
+	font-family: Helevetica, Arial;
+	text-transform: lowercase;
+}
+
+h4 {
+	color: #000;
+	font-size: 21px;
+	font-family: Helevetica, Arial;
+	font-weight: bold;
+	text-align: left; 
+	text-transform: lowercase;
+}
+
+a {
+	color: #EBF4EC;
+	font-size: 18px;
+	font-family: Helevetica, Arial;
+	font-weight: bold;
+	text-align: left; 
+	text-transform: lowercase;
+}
+
+ul {
+	color: #EBF4EC;
+	font-size: 21px;
+	font-family: Helevetica, Arial;
+	font-weight: bold;
+	text-align: left; 
+	text-transform: lowercase;
+}
+}
