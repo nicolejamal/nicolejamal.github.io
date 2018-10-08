@@ -1,3 +1,15 @@
+*{ 
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+	background-image: url(../images/brokenmirror.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 h1 {
 	color: #000;
 	font-family: Helvetica;
@@ -12,11 +24,6 @@ h2 {
 	font-size: 21px;
 	font-weight: bold;
 	text-align: right; 
-	margin: 0
-		margin-top: 0px;
-		margin-right: 0px;
-		margin-bottom: 0px;
-		margin-left: 0px;
 	float: right;
 	padding-top: 87px;
 	font-family: Helevetica, Arial;
@@ -27,29 +34,10 @@ h3 {
 	color: #000;
 	font-size: 21px;
 	font-weight: bold;
-	text-align: left; 
-	margin: 0
-		margin-top: 0px;
-		margin-right: 0px;
-		margin-bottom: 0px;
-		margin-left: 0px;
 	float: left;
 	padding-top: 87px;
 	font-family: Helevetica, Arial;
 	text-transform: lowercase;
-}
-
-.footer {
-	color: #000;
-	font-size: 18px;
-	font-weight: bold;
-	text-align: left; 
-	font-family: Helevetica, Arial;
-	text-transform: lowercase;
-	padding-bottom: 20px;
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-top; 20px;
 }
 
 h4 {
@@ -57,7 +45,6 @@ h4 {
 	font-size: 21px;
 	font-family: Helevetica, Arial;
 	font-weight: bold;
-	text-align: left; 
 	text-transform: lowercase;
 }
 
@@ -66,7 +53,6 @@ a {
 	font-size: 18px;
 	font-family: Helevetica, Arial;
 	font-weight: bold;
-	text-align: left; 
 	text-transform: lowercase;
 }
 
@@ -75,7 +61,17 @@ ul {
 	font-size: 21px;
 	font-family: Helevetica, Arial;
 	font-weight: bold;
-	text-align: left; 
 	text-transform: lowercase;
 }
+
+.footer {
+	color: #000;
+	font-size: 18px;
+	font-weight: bold; 
+	font-family: Helevetica, Arial;
+	text-transform: lowercase;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
 }
