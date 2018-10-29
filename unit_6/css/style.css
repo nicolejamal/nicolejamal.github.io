@@ -100,7 +100,6 @@ header {
 #right {
 	background-image: url(../images/brokenmirror.jpg);
 	background-repeat: no-repeat;
-	background-size: cover;
 	position: relative;
 	border: 1px black solid;
     padding: 20px;
