@@ -99,7 +99,7 @@ header {
 	background-color: #absolute;
     border: 1px black solid;
     padding: 20px;
-    box-sizing: contain;
+    box-sizing: inherit;
 
 }
 
