@@ -103,8 +103,6 @@ header {
 }
 
 #right {
-	background-repeat: no-repeat;
-	background-size: cover;
 	position: relative;
 	content: url(../images/mirror6.jpg);
 	clear: both;
@@ -128,7 +126,7 @@ header {
     visibility: hidden;
     display: block;
     font-size: 0;
-    content: "url(../images/mirror6.jpg)";
+    content: "";
     clear: both;
     height: 0;
 }
