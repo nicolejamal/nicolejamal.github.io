@@ -103,7 +103,7 @@ header {
 	position: relative;
 	border: 1px black solid;
     padding: 20px;
-    float: right;   
+    float: left;   
     width: 25%;
 }
 
