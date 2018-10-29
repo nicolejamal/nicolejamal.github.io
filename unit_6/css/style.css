@@ -1,0 +1,153 @@
+*{ 
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+	background-color: #EBF4EC;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+header {
+	
+}
+
+.top-ad {
+	background-color: black;
+	width: 100%;
+	position: absolute;
+}
+
+#promo1 {
+	color: white;
+	font-family: "Proxima Nova",Helevetica,Arial,sans-serif;
+	font-size: 5px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.menu-banner-logo {
+	background-color: #ff7380;
+}
+
+#logo {
+	color: #000;
+	font-family: Helvetica;
+	font-size:44px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.menu-banner-navigation {
+	color: #444;
+	font-size: 10px;
+	font-family: "Proxima Nova",Helevetica,Arial,sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	display:inline-block;
+}
+
+.menuleft {
+	float: left;
+
+}
+
+.menuright {
+	float: right;
+
+}
+
+.main-menu {
+	background-color: white;
+	text-align: center;
+	width: 100%;
+
+}
+
+#main-menu-shop {
+	color: #444;
+	text-align: center;
+	font-size: 10px;
+	font-family: "Proxima Nova",Helevetica,Arial,sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	display:inline-block;
+}
+
+.container {
+
+}
+
+#two-column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+#right {
+	background-image: url(../images/brokenmirror.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+#left {
+	background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.container2 {
+
+}
+
+.about {
+
+}
+
+a {
+
+}
+
+h1 {
+
+}
+
+h2{
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+footer {
+	color: #000;
+	font-size: 18px;
+	font-weight: bold; 
+	font-family: Helevetica, Arial;
+	text-transform: lowercase;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
