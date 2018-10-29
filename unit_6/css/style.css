@@ -109,6 +109,7 @@ header {
 
 #left {
 	position: absolute;
+	content: url(../images/graycolor.jpg);
 	background-color: violet;
     border: 1px black solid;
     padding: 20px;
