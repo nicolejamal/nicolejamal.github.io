@@ -92,15 +92,16 @@ header {
 	background-size: contain;
 	width: 100%;
 	text-align: center;
-	box-sizing: contain;
 }
 
-#two-column {
-	background-color: #absolute;
-    border: 1px black solid;
-    padding: 20px;
-    box-sizing: inherit;
-
+.two-column {
+	background-color: black;
+	background-size: contain;
+	width: 100%;
+	text-align: center;
+    padding: 0;
+    margin: 0;
+    box-sizing: contain;
 }
 
 #right {
@@ -126,12 +127,15 @@ header {
     visibility: hidden;
     display: block;
     font-size: 0;
-    content: "";
     clear: both;
     height: 0;
 }
 
 .container2 {
+	color: blue;
+	height:500px;
+	width: 500px;
+	padding: ;
 
 }
 
