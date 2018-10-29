@@ -87,13 +87,6 @@ header {
 	display:inline-block;
 }
 
-.container {
-	background-color: black;
-	background-size: contain;
-	width: 100%;
-	text-align: center;
-}
-
 .two-column {
 	background-color: black;
 	background-size: contain;
