@@ -102,12 +102,18 @@ header {
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
+	border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 25%;
 }
 
 #left {
-	background-color: #E582A2;
+	background-color: violet;
     border: 1px black solid;
     padding: 20px;
+    float: left;
+    width: 75%;
 }
 
 .container2 {
