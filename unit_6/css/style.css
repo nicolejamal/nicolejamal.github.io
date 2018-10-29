@@ -92,6 +92,7 @@ header {
 	background-size: contain;
 	width: 100%;
 	text-align: center;
+	box-sizing: contain;
 }
 
 #two-column {
