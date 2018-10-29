@@ -88,14 +88,17 @@ header {
 }
 
 .container {
-
-}
-
-#two-column {
 	background-color: black;
 	background-size: contain;
 	width: 100%;
 	text-align: center;
+
+}
+
+#two-column {
+	background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
 
 }
 
