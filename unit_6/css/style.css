@@ -31,6 +31,7 @@ header {
 
 .menu-banner-logo {
 	background-color: #ff7380;
+	
 }
 
 #logo {
@@ -43,21 +44,28 @@ header {
 }
 
 .menu-banner-navigation {
+	
+}
+
+.menuleft {
+	float: left;
 	color: #444;
 	font-size: 10px;
 	font-family: "Proxima Nova",Helevetica,Arial,sans-serif;
 	font-weight: bold;
 	text-transform: uppercase;
 	display:inline-block;
-}
-
-.menuleft {
-	float: left;
 
 }
 
 .menuright {
 	float: right;
+	color: #444;
+	font-size: 10px;
+	font-family: "Proxima Nova",Helevetica,Arial,sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	display:inline-block;
 
 }
 
@@ -118,7 +126,13 @@ h1 {
 }
 
 h2{
-
+	color: #000;
+	font-family: Helvetica;
+	font-size:44px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 20px 0 0 0;
 }
 
 h3 {
