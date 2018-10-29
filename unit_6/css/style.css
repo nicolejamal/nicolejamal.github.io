@@ -103,10 +103,11 @@ header {
 }
 
 #right {
-	background-image: url(../images/brokenmirror.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
+	content: url(../images/mirror6.jpg);
+	clear: both;
 	border: 1px black solid;
     padding: 20px;
     float: right;   
@@ -120,13 +121,14 @@ header {
     padding: 20px;
     float: left;
     width: 75%;
+    clear: both;
 }
 
 .clearfix:after {
     visibility: hidden;
     display: block;
     font-size: 0;
-    content: " ";
+    content: "url(../images/mirror6.jpg)";
     clear: both;
     height: 0;
 }
@@ -179,7 +181,7 @@ footer {
 	padding-left: 20px;
 	padding-right: 20px;
 	padding-top: 20px;
-	position: relative;
+	position: absolute;
     left: 0;
     bottom: 0;
     width: 100%;
