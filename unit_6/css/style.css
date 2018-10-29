@@ -92,18 +92,18 @@ header {
 	background-size: contain;
 	width: 100%;
 	text-align: center;
-
 }
 
 #two-column {
-	background-color: #FFB7CF;
+	background-color: #absolute;
     border: 1px black solid;
     padding: 20px;
+    box-sizing: contain;
 
 }
 
 #right {
-	position: relative;
+	position: absolute;
 	content: url(../images/mirror6.jpg);
 	border: 1px black solid;
     padding: 20px;
@@ -113,7 +113,7 @@ header {
 }
 
 #left {
-	position: relative;
+	position: absolute;
 	background-color: violet;
     border: 1px black solid;
     padding: 20px;
