@@ -105,7 +105,6 @@ header {
 #right {
 	position: relative;
 	content: url(../images/mirror6.jpg);
-	clear: both;
 	border: 1px black solid;
     padding: 20px;
     float: right;   
