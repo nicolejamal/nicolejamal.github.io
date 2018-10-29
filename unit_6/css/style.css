@@ -92,9 +92,11 @@ header {
 }
 
 #two-column {
-	background-color: #FFB7CF;
-	border: 1px black solid;
-    padding: 20px;
+	background-color: black;
+	background-size: contain;
+	width: 100%;
+	text-align: center;
+
 }
 
 #right {
@@ -106,6 +108,7 @@ header {
     padding: 20px;
     float: right;   
     width: 25%;
+
 }
 
 #left {
