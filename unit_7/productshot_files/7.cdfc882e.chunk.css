@@ -1,0 +1,2 @@
+@media (max-width:767px){.hidden-mobile{display:none!important}}@media (min-width:768px){.hidden-desktop{display:none!important}}.account__container{align-items:center;display:flex;flex-direction:column;justify-content:center;min-height:calc(100vh - 120px)}.account__container .account__link,.account__container p{color:#484646;font-size:14px;margin:0;opacity:1;text-transform:uppercase}.account__container .account__link{cursor:pointer;text-decoration:underline}.account__error_message{color:red}
+/*# sourceMappingURL=7.cdfc882e.chunk.css.map */

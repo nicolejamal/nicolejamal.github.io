@@ -1,0 +1,99 @@
+*{ 
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+	background-image: url(../images/brokenmirror.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+h1 {
+	color: #000;
+	font-family: Helvetica;
+	font-size:44px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: #000;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: right; 
+	float: right;
+	padding-top: 87px;
+	font-family: Helevetica, Arial;
+	text-transform: lowercase;
+}
+
+h3 {
+	color: #000;
+	font-size: 21px;
+	font-weight: bold;
+	float: left;
+	padding-top: 87px;
+	font-family: Helevetica, Arial;
+	text-transform: lowercase;
+}
+
+h4 {
+	color: #000;
+	font-size: 21px;
+	font-family: Helevetica, Arial;
+	font-weight: bold;
+	text-transform: lowercase;
+}
+
+a {
+	color: #EBF4EC;
+	font-size: 18px;
+	font-family: Helevetica, Arial;
+	font-weight: bold;
+	text-transform: lowercase;
+}
+
+ul {
+	color: #EBF4EC;
+	font-size: 21px;
+	font-family: Helevetica, Arial;
+	font-weight: bold;
+	text-transform: lowercase;
+}
+
+li {
+	display: inline-block;
+}
+
+footer {
+	color: #000;
+	font-size: 18px;
+	font-weight: bold; 
+	font-family: Helevetica, Arial;
+	text-transform: lowercase;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+img {
+	width: 25%;
+}
+
+.bg-image {
+	background: url('../images/blackbags.jpg');
+	height:500px;
+	width: 500px;
+}
