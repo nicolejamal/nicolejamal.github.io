@@ -25,7 +25,7 @@ header {
 	text-align: center;
 }
 
-section#intro {
+section.intro {
 	background: url(..images/kkw3.jpg) no-repeat 0, url(..images/bottles.jpg) no-repeat 100%,
 	background-size: contain;
 	background-color: #BFACAD;
