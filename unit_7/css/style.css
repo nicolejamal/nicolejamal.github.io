@@ -15,13 +15,9 @@ header {
 	
 }
 
-.top-ad {
-	background-color: black;
-	width: 100%;
-	position: absolute;
-}
 
 #promo1 {
+	background-color: black;
 	color: white;
 	font-family: "Proxima Nova",Helevetica,Arial,sans-serif;
 	font-size: 5px;
