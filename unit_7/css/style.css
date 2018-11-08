@@ -4,17 +4,17 @@ padding: 0;
 box-sizing: border-box;
 }
 
-body{
+body {
 	background-color: #EBF4EC;
-	background-repeat: no-repeat;
-	background-size: cover;
+	color: #000;
 	position: relative;
+	font-size: 
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 header {
 	
 }
-
 
 #promo1 {
 	background-color: black;
@@ -25,24 +25,9 @@ header {
 	text-align: center;
 }
 
-section.intro {
-	background: url(..images/kkw3.jpg) no-repeat 0, url(..images/bottles.jpg) no-repeat 100%,
-	background-size: contain;
-	background-color: #BFACAD;
-}
-
-#logo {
-	color: #000;
-	font-family: Helvetica;
-	font-size:44px;
-	font-weight: bold;
-	text-align: center;
-	text-transform: uppercase;
-}
-
-.menu-banner-navigation {
-	display:inline-block;
-	
+.menu-banner-logo {
+	background-color: #587090;
+	font-size: ;
 }
 
 .menuleft {
@@ -67,108 +52,30 @@ section.intro {
 
 }
 
-.main-menu {
-	background-color: white;
-	text-align: center;
-	width: 100%;
-
-}
-
-#main-menu-shop {
-	color: #444;
-	text-align: center;
-	font-size: 10px;
-	font-family: "Proxima Nova",Helevetica,Arial,sans-serif;
-	font-weight: bold;
-	text-transform: uppercase;
-	display:inline-block;
-}
-
-
 section#intro {
-    background: url(images/racecarshoes6.jpg) no-repeat 0, url(images/blackboxbag.jpg) no-repeat 100%, #e4f4e9;
-    background-size: contain;
-    height: 75vh;
- }
-
-.two-column {
-	background-color: black;
+	background: url(images/kkw3.jpg) no-repeat 0, url(images/bottles.jpg) no-repeat 100%,
 	background-size: contain;
-	width: 100%;
+	background-color: #BFACAD;
+	height: 75vh;
+}
+
+.top-cta {
+	float: left;
 	text-align: center;
-    padding: 0;
-    margin: 0;
-    box-sizing: contain;
-}
-
-#right {
-	position: absolute;
-	content: url(../images/mirror6.jpg);
-	border: 1px black solid;
-    padding: 20px;
-    float: right;   
-    width: 25%;
+	width: 100%;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	line-height: 48px;
 
 }
 
-#left {
-	position: absolute;
-	content: url(../images/graycolor.jpg);
-	background-color: violet;
-    border: 1px black solid;
-    padding: 20px;
-    float: left;
-    width: 75%;
-}
-
-.clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    clear: both;
-    height: 0;
-}
-
-.container2 {
-	color: blue;
-	height:500px;
-	width: 500px;
-	padding: ;
-
-}
-
-.about {
-
-}
-
-a {
-
-}
-
-h1 {
-
-}
-
-h2{
+#logo {
 	color: #000;
 	font-family: Helvetica;
 	font-size:44px;
 	font-weight: bold;
 	text-align: center;
 	text-transform: uppercase;
-	padding: 20px 0 0 0;
-}
-
-h3 {
-
-}
-
-h4 {
-
-}
-
-h5 {
-
 }
 
 footer {
