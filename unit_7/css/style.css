@@ -42,6 +42,11 @@ p {
 	position: relative;
 }
 
+nav a {
+	position: relative;
+	clear: both;
+}
+
 .clearfix:after {
 	content: "";
 	clear: both;
