@@ -1,0 +1,201 @@
+*{ 
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+text-decoration: none;
+}
+
+body {
+	background-color: #EBF4EC;
+	color: rgba(0,0,0,0.85);
+	position: relative;
+	font-size: 18px;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+	background-color: white;
+	position: relative;
+}
+
+p {
+	display: block;
+	margin: 1em;
+}
+
+#promo1 {
+	background-color: black;
+	color: white;
+	font-family: Helevetica,Arial,sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.menu-banner-logo {
+	background-color: white;
+	width: 100%;
+	float: left;
+	display: inline-block;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 30px;
+}
+
+
+nav a {
+	float: left;
+	display: inline-block;
+	font-size: 20px;
+}
+
+
+.clearfix:after {
+	content: "";
+	clear: both;
+	display: inline-block;
+}
+
+
+#menu-right {
+	float: right;
+	position: relative;
+}
+
+
+section#intro {
+	background: url(../images/kkw32.jpg) no-repeat 0, url(../images/bottles.jpg) repeat 0, 100%;
+    background-size: contain;
+    height: 75vh;
+    clear: both;
+    text-align: center;
+    line-height: 75px;
+}
+
+.top-cta {
+	float: left;
+	text-align: center;
+	width: 100%;
+	margin-bottom: 70px;
+	margin-top: 150px;
+	padding-right: 0px;
+	padding-left: 183px;
+	line-height: 45px;
+}
+
+.wrapper {
+	width: 1200px;
+}
+
+.example {
+	width: calc(50% - 3px);
+	display: inline-block;
+	margin: auto;
+}
+
+.example img {
+	width: 50%;
+	float: left;
+}
+
+.find-a-salon img {
+	width: 20%;
+	float: left;
+	margin: 2em;
+}
+
+#salon {
+	width: calc(50% - 3px);
+	display: inline-block;
+	margin: auto;
+}
+
+.how {
+	clear: both;
+	margin: auto;
+	background-color: #ACACAE;
+	display: inline-block;
+}
+
+.how img {
+	width:calc(40% - 3px);
+}
+
+
+h3 {
+	text-align: center;
+}
+
+h4 {
+	text-align: center;
+	margin-right: 0;
+}
+
+.p how-description {
+	text-align: right;
+	margin-right: 0;
+	padding-left: 150px; 
+	padding-bottom: 300px;
+}
+
+.why-it-matters {
+	width: calc(103% - 3px);
+	display: inline-block;
+	margin: auto;
+	background-color: #282E2F;
+	clear: both;
+	display: inline-block;
+	margin: auto;
+}
+
+.why-it-matters img {
+	width:calc(40% - 3px);
+}
+
+.ingredients {
+	width: calc(103% - 3px);
+	display: inline-block;
+	margin: auto;
+	background-color: #E5D9D1;
+	clear: both;
+	display: inline-block;
+	margin: auto;
+}
+
+.formula {
+	width: calc(103% - 3px);
+	display: inline-block;
+	margin: auto;
+	background-image: "..images/shower.jpg" no-repeat 0, 100%;
+	background-size: contain;
+	clear: both;
+	display: inline-block;
+	margin: auto;
+}
+
+.testimonials {
+	width: calc(103% - 3px);
+	display: inline-block;
+	margin: auto;
+	background-color: #BFACAD;
+	clear: both;
+	display: inline-block;
+	margin: auto;
+}
+
+
+footer {
+	color: rgba(0,0,0,0.85);
+	font-size: 16px;
+	font-weight: bold; 
+	font-family: Helevetica, Arial;
+	text-transform: lowercase;
+	text-decoration: none;
+	padding: 20px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #909196;
+    text-align: center;
+    clear: both;
+}
