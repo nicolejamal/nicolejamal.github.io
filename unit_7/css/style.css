@@ -168,6 +168,8 @@ h4 {
 	display: inline-block;
 	margin: auto;
 	background-color: #426E88;
+	background-image: "..images/shower.jpg";
+	background-size: 100%;
 	clear: both;
 	display: inline-block;
 	margin: auto;
