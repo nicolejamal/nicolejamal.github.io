@@ -157,6 +157,8 @@ h4 {
 	display: inline-block;
 	margin: auto;
 	background-color: #E5D9D1;
+	background-image: "..images/marble-counter.jpg" no-repeat 0, 100%;
+	background-size: fill;
 	clear: both;
 	display: inline-block;
 	margin: auto;
@@ -167,9 +169,8 @@ h4 {
 	display: inline-block;
 	margin: auto;
 	background-image: "..images/shower.jpg" no-repeat 0, 100%;
-	background-size: contain;
+	background-size: fill;
 	clear: both;
-	display: inline-block;
 	margin: auto;
 }
 
@@ -179,7 +180,6 @@ h4 {
 	margin: auto;
 	background-color: #BFACAD;
 	clear: both;
-	display: inline-block;
 	margin: auto;
 }
 
