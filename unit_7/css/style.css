@@ -140,7 +140,7 @@ h4 {
 }
 
 .why-it-matters {
-	width: calc(50% - 3px);
+	width: calc(103% - 3px);
 	display: inline-block;
 	margin: auto;
 	background-color: #282E2F;
@@ -151,6 +151,36 @@ h4 {
 
 .why-it-matters img {
 	width:calc(40% - 3px);
+}
+
+.ingredients {
+	width: calc(103% - 3px);
+	display: inline-block;
+	margin: auto;
+	background-color: #E5D9D1;
+	clear: both;
+	display: inline-block;
+	margin: auto;
+}
+
+.formula {
+	width: calc(103% - 3px);
+	display: inline-block;
+	margin: auto;
+	background-color: #426E88;
+	clear: both;
+	display: inline-block;
+	margin: auto;
+}
+
+.testimonials {
+	width: calc(103% - 3px);
+	display: inline-block;
+	margin: auto;
+	background-color: #BFACAD;
+	clear: both;
+	display: inline-block;
+	margin: auto;
 }
 
 
