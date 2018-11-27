@@ -20,6 +20,8 @@ header {
 
 p {
 	display: block;
+	margin: 1em;
+	margin-
 }
 
 #promo1 {
@@ -52,7 +54,7 @@ nav a {
 .clearfix:after {
 	content: "";
 	clear: both;
-	display: block;
+	display: inline-block;
 }
 
 
@@ -89,12 +91,60 @@ section#intro {
 .example {
 	width: calc(50% - 3px);
 	display: inline-block;
+	margin: auto;
 }
 
 .example img {
 	width: 50%;
 	float: left;
 }
+
+.find-a-salon img {
+	width: 20%;
+	float: left;
+	margin: 2em;
+}
+
+#salon {
+	width: calc(50% - 3px);
+	display: inline-block;
+	margin: auto;
+}
+
+.how {
+	clear: both;
+	margin: auto;
+	background-color: #ACACAE;
+	display: inline-block;
+}
+
+.how img {
+	width:calc(40% - 3px);
+}
+
+.how ol {
+	text-align: center;
+	display: inline-block;
+}
+
+h3 {
+	text-align: center;
+}
+
+h4 {
+	text-align: center;
+	margin-right: 0;
+}
+
+.p how-description {
+	text-align: right;
+	margin-right: 0;
+	padding-left: 150px; 
+	padding-bottom: 300px;
+}
+
+
+
 
 
 footer {
