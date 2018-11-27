@@ -21,7 +21,6 @@ header {
 p {
 	display: block;
 	margin: 1em;
-	margin-
 }
 
 #promo1 {
@@ -167,9 +166,8 @@ h4 {
 	width: calc(103% - 3px);
 	display: inline-block;
 	margin: auto;
-	background-color: #426E88;
-	background-image: "..images/shower.jpg";
-	background-size: 100%;
+	background-image: "..images/shower.jpg" no-repeat 0, 100%;
+	background-size: contain;
 	clear: both;
 	display: inline-block;
 	margin: auto;
