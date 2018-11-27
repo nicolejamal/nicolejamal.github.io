@@ -61,13 +61,14 @@ nav a {
 	position: relative;
 }
 
+
 section#intro {
-	background: url(../images/kkw32.jpg) no-repeat 0, url(../images/bottles.jpg) no-repeat 0, 100%;
-	background-size: contain;
-	height: 75vh;
-	clear: both;
-	text-align: center;
-	line-height: 75px;
+	background: url(../images/kkw32.jpg) no-repeat 0, url(../images/bottles.jpg) repeat 0, 100%;
+    background-size: contain;
+    height: 75vh;
+    clear: both;
+    text-align: center;
+    line-height: 75px;
 }
 
 .top-cta {
