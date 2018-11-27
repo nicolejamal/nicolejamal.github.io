@@ -122,10 +122,6 @@ section#intro {
 	width:calc(40% - 3px);
 }
 
-.how ol {
-	text-align: center;
-	display: inline-block;
-}
 
 h3 {
 	text-align: center;
@@ -143,8 +139,19 @@ h4 {
 	padding-bottom: 300px;
 }
 
+.why-it-matters {
+	width: calc(50% - 3px);
+	display: inline-block;
+	margin: auto;
+	background-color: #282E2F;
+	clear: both;
+	display: inline-block;
+	margin: auto;
+}
 
-
+.why-it-matters img {
+	width:calc(40% - 3px);
+}
 
 
 footer {
