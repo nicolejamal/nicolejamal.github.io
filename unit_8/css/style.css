@@ -2,7 +2,6 @@
 margin: 0;
 padding: 0;
 box-sizing: border-box;
-text-decoration: none;
 }
 
 body {
@@ -85,12 +84,16 @@ section#intro {
 
 .wrapper {
 	width: 1200px;
+	margin: auto;
+
 }
 
 .example {
 	width: calc(50% - 3px);
 	display: inline-block;
 	margin: auto;
+	vertical-align: bottom;
+
 }
 
 .example img {
@@ -139,13 +142,8 @@ h4 {
 }
 
 .why-it-matters {
-	width: calc(103% - 3px);
-	display: inline-block;
 	margin: auto;
 	background-color: #282E2F;
-	clear: both;
-	display: inline-block;
-	margin: auto;
 }
 
 .why-it-matters img {
@@ -153,15 +151,9 @@ h4 {
 }
 
 .ingredients {
-	width: calc(103% - 3px);
-	display: inline-block;
-	margin: auto;
-	background-color: #E5D9D1;
-	background-image: "..images/marble-counter.jpg" no-repeat 0, 100%;
-	background-size: fill;
-	clear: both;
-	display: inline-block;
-	margin: auto;
+	background: url(".../images/marble-counter.jpg") no-repeat;
+	background-size: cover;
+	padding: 15em;
 }
 
 .formula {
@@ -175,12 +167,12 @@ h4 {
 }
 
 .testimonials {
-	width: calc(103% - 3px);
-	display: inline-block;
-	margin: auto;
 	background-color: #BFACAD;
-	clear: both;
-	margin: auto;
+}
+
+.blockqoute img {
+	width: 15%;
+
 }
 
 
